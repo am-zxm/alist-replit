@@ -50,3 +50,5 @@ How to change the database?
 
 ## Password
 The initial password is randomly generated, and you can get it by checking the console logs.
+
+[![Run on Repl.it](https://replit.com/badge/github/alist-org/alist-replit)](https://replit.com/new/github/alist-org/alist-replit)
